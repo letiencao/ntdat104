@@ -1,4 +1,4 @@
-[![Tiến Đạt's GitHub stars](https://github-readme-stats.vercel.app/api?username=ntdat104&count_private=true&show_icons=true)](https://www.facebook.com/ntdat104/)
+[![Tiến Đạt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntdat104&count_private=true&show_icons=true)](https://www.facebook.com/ntdat104/)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntdat104&layout=compact)](https://www.facebook.com/ntdat104/)
 
 ### Hi there 👋
