@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🚀 I’m currently studying at Hannoi University of Science and Technology
+- 🚀 I’m currently studying at Hanoi University of Science and Technology
 - 🔥 I’m currently working on VTI-Company
 - 💥 I’m currently learning React Native
 - 🖖 I’m looking for help with mobile apps.
